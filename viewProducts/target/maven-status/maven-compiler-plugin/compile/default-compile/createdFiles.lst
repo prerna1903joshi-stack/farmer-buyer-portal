@@ -1,0 +1,7 @@
+com\example\demo\ViewProductsApplication.class
+com\example\demo\service\ProductService.class
+com\example\demo\repository\ProductRepository.class
+com\example\demo\config\CorsConfig$1.class
+com\example\demo\model\Product.class
+com\example\demo\config\CorsConfig.class
+com\example\demo\controller\ProductController.class
