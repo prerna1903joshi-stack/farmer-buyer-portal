@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* optional global styles */
+body {
+  @apply bg-gray-50 text-gray-800;
+}
+body {
+  background-color: #f4f6f8;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.dashboard-title {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.form-card {
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.form-label {
+  font-weight: 500;
+}
+
+.btn-success {
+  background-color: #2e7d32;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #256428;
+}
+
+.sidebar {
+  background-color: #1b7f3a;
+}
+
+.sidebar a {
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
